@@ -20,3 +20,4 @@ Additionally, I have a strong interest in the world of photography, particularly
   <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
 </a>
 ```-->
+<img src="https://discord.c99.nl/widget/theme-2/612666923502796818.png" >
