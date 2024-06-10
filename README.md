@@ -5,7 +5,7 @@ Additionally, I have a strong interest in the world of photography, particularly
 
 > Feel free to reach out to me! Whether you want to chat about technology, share photography tips, or discuss your favorite video games, I'm always up for a conversation.
 
-[![Twitter](https://img.shields.io/badge/-Lights.out.#0-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/)](https://www.twitter.com/)
+[![Twitter](https://img.shields.io/badge/-Lightsout-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/)](https://www.twitter.com/)
 [![Instagram](https://img.shields.io/badge/-Lights.out.#0-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/anas.ike/)](https://instagram.com/anas.ike)
 [![Pinterest](https://img.shields.io/badge/-Lights.out.#0-red?style=flat-square&labelColor=gray&logo=pinterest&logoColor=white&link=https://id.pinterest.com/romanroman.nya/)](https://id.pinterest.com/romanroman.nya)
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://hi.lrmn.site)
