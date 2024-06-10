@@ -10,7 +10,7 @@ Additionally, I have a strong interest in the world of photography, particularly
 [![Pinterest](https://img.shields.io/badge/-@Lightsout-red?style=flat-square&labelColor=gray&logo=pinterest&logoColor=white&link=https://id.pinterest.com/romanroman.nya/)](https://id.pinterest.com/romanroman.nya)
 [![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://hi.lrmn.site)
 [![Spotify](https://img.shields.io/badge/-Lightsout-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h)](https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h/)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)](https://visitor-badge.laobi.icu/badge?page_id=lrmn7.lrmn7&)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anas-ike.anas-ike&)](https://visitor-badge.laobi.icu/badge?page_id=anas-ike.anas-ike&)
 [![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/AaZasMN3yG)](https://discord.gg/AaZasMN3yG)
 ##
 
