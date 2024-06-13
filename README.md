@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anas-iken</h1>
+<h1 align="center">Hi 👋, I'm Anas-ike</h1>
 
 ### _Mostly sleepless._
 
