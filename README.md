@@ -3,10 +3,6 @@
 I love exploring anything related to technology.
 Additionally, I have a strong interest in the world of photography, particularly virtual photography in video games
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-ike&label=Profile%20views&color=0e75b6&style=flat" alt="anas-ike" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rainyxeon" alt="anas-ike" /></a> </p>
-
 > Feel free to reach out to me! Whether you want to chat about technology, share photography tips, or discuss your favorite video games, I'm always up for a conversation.
 
 [![Twitter](https://img.shields.io/badge/-Lightsout-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/romanromannya/)](https://www.twitter.com/romanromannya/)
