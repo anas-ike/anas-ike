@@ -30,6 +30,10 @@ Additionally, I have a strong interest in the world of photography, particularly
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-ike&theme=dark&starting_year=2020" alt="rainyxeon" /></p>
 
+<p align="center"> 
+  <a href="https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=82kz1tfqi84c9fib7b9kfc15h"/> </a> 
+</p>
+
 <!--```javascript
 ## What i'am listening to
 <a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
