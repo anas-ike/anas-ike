@@ -42,3 +42,7 @@ Additionally, I have a strong interest in the world of photography, particularly
 </a>
 ```-->
 <img src="https://discord.c99.nl/widget/theme-2/612666923502796818.png" >
+<a href="https://discord.com/invite/PqVQgXTweC">
+  <img src="https://invidget.switchblade.xyz/PqVQgXTweC" alt="Discord Server">
+</a>
+
