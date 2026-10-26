@@ -1,48 +1,112 @@
-<h1 align="center">Hi 👋, I'm Anas-ike</h1>
+<div align="center">
 
-<h1 align="center">AKA lights.out#0</h1>
+<p><sub>AN EDITORIAL PROFILE · ANAS-IKE</sub></p>
 
-### _Mostly sleepless._
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&label=Lights.out.%230&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&label=Lights.out.%230&mode=dark" width="100%" alt="Lights.out.#0 cinematic profile scene" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&label=Lights.out.%230&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&label=Lights.out.%230&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Lights.out.#0 animated ASCII name" />
+</picture>
+
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p>Mostly sleepless
 
 I love exploring anything related to technology.
-Additionally, I have a strong interest in the world of photography, particularly virtual photography in video games
+Additionally, I have a strong interest in the world of photography.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-ike" alt="anas-ike" /></a> </p>
+<p><a href="https://github.com/anas-ike">GitHub</a> &nbsp;·&nbsp; <a href="https://Lightsout.in">Website</a></p>
+</div>
 
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-> Feel free to reach out to me! Whether you want to chat about technology, share photography tips, or discuss your favorite video games, I'm always up for a conversation.
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Mostly sleepless
 
-[![Twitter](https://img.shields.io/badge/-Lightsout-blue?style=flat-square&labelColor=gray&logo=Twitter&logoColor=white&link=https://www.twitter.com/)](https://www.twitter.com/)
-[![Instagram](https://img.shields.io/badge/-@Lightsout-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/anas.ike/)](https://instagram.com/anas.ike)
-[![Pinterest](https://img.shields.io/badge/-@Lightsout-red?style=flat-square&labelColor=gray&logo=pinterest&logoColor=white&link=https://id.pinterest.com/romanroman.nya/)](https://id.pinterest.com/romanroman.nya)
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue?style=flat&logo=About.me&logoColor=white)](https://lightsout.theelf.tech)
-[![Spotify](https://img.shields.io/badge/-Lightsout-green?style=flat-square&labelColor=gray&logo=spotify&logoColor=white&link=https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h)](https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h/)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=anas-ike.anas-ike&)](https://visitor-badge.laobi.icu/badge?page_id=anas-ike.anas-ike&)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/AaZasMN3yG)](https://discord.gg/AaZasMN3yG)
-##
+I love exploring anything related to technology.
+Additionally, I have a strong interest in the world of photography.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>14</strong> repos<br /><strong>212</strong> contributions<br /><strong>2</strong> followers</p></td>
+</tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anas-ike&show_icons=true&theme=tokyonight&locale=en&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rainyxeon" /></p>
+<h2>In the current cut</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-ike&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rainyxeon" /></p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anas-ike&theme=dark&starting_year=2020" alt="Anas-ike's GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CEJS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CEJS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Lights.out.#0 cinematic highlights" />
+</picture>
 
-<p align="center"> 
-  <a href="https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=82kz1tfqi84c9fib7b9kfc15h"/> </a> 
-</p>
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
 
-<!--```javascript
-## What i'am listening to
-<a href="https://lrmn7.vercel.app/api/now-playing?open=yes">
-  <img src="https://lrmn7.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
-</a>
-```-->
-<img src="https://discord.c99.nl/widget/theme-2/612666923502796818.png" >
-<a href="https://discord.com/invite/PqVQgXTweC">
-  <img src="https://invidget.switchblade.xyz/PqVQgXTweC" alt="Discord Server">
-</a>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
+<h2>Production palette</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Lights.out.#0 animated technology stack" />
+</picture>
+
+<p align="center"><sub>TypeScript · JavaScript · EJS · CSS · Python · HTML · Dockerfile · Shell · tools chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Featured reel</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&repos=anas-ike%2FAnimated-bot-Pfp%2Canas-ike%2Fcat-the-fact%2Canas-ike%2Fwelcome-Bot%2Canas-ike%2Fmagic-moogic&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&repos=anas-ike%2FAnimated-bot-Pfp%2Canas-ike%2Fcat-the-fact%2Canas-ike%2Fwelcome-Bot%2Canas-ike%2Fmagic-moogic&v=cinematic-projects-2&mode=dark" width="100%" alt="Lights.out.#0 cinematic project reel" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/anas-ike/Animated-bot-Pfp">Animated-bot-Pfp</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/anas-ike/cat-the-fact">cat-the-fact</a></strong></p><p>CATBOT is a bot which sends you pictures/videos of cats or a cat fact in your discord server whenever you do /cat or /fact.</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/anas-ike/welcome-Bot">welcome-Bot</a></strong></p><p>Welcome and farewell thats it</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Magic-Moosic/magic-moogic">magic-moogic</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<p align="center"><sub>14 public projects · 4 stars · 212 contributions · 2 followers</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Lights.out.#0 contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Lights.out.#0 animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<h2>Keep the story moving</h2>
+
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&website=Lightsout.in&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=anas-ike&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156470102%3Fu%3D186a857908c9b1e6c18479bb0663fda3d20b1b4e%26v%3D4&website=Lightsout.in&mode=dark" width="100%" alt="Lights.out.#0 contact links" />
+</picture>
+
+<p><a href="https://github.com/anas-ike">GitHub</a> &nbsp;·&nbsp; <a href="https://Lightsout.in">Website</a></p>
+
+<p><sub>Lights.out.#0 ·
