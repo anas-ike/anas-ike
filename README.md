@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/anas-ike/anas-ike/main/assets/42b4229a9ec3145edaa895b2415dd720.gif"
+    alt="Lights.out animated banner"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 <p><sub>AN EDITORIAL PROFILE · ANAS-IKE</sub></p>
